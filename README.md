@@ -67,4 +67,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## 学習状況
 
-paizaでPHPから学習中
+paizaでPHPから学習中</br>
+paizaでlaravel学習(Railsとほぼ同じ)
